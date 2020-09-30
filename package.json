@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
+    "react-redux": "^7.2.1",
+    "react-scripts": "^3.4.3",
+    "redux": "^4.0.5",
     "tachyons": "^4.12.0"
   },
   "scripts": {
@@ -25,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Tutorial for udemy course - React\r To run the project:",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneagoie/robofriends.git"
+  },
+  "author": "Aleksandar Stojkovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneagoie/robofriends/issues"
+  },
+  "homepage": "https://github.com/aneagoie/robofriends#readme"
 }
